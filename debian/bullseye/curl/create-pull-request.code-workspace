@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../prettier"
+		},
+		{
+			"path": "../../../../../../chakra-ui"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#491851",
+			"titleBar.activeBackground": "#662272",
+			"titleBar.activeForeground": "#FEFCFE"
+		},
+		"compile-hero.disable-compile-files-on-did-save-code": false
+	}
+}
